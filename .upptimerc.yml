@@ -9,7 +9,7 @@ sites:
     url: https://en.wikipedia.org
   - name: ipfs pruebas noticias
     url: https://ipfs.io/ipns/k51qzi5uqu5dicjkm8zerzc187wessd8ibgwqscv3qx80shm53k9qivmfjmznr
-  - name: Test Broken Site
+  - name: Test loibra
     url: http://loibra.mooo.com/
 
 status-website:
