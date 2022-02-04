@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/ipfs.io",
     "slug": "ipfs",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "98.73%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "98.73%",
+    "uptimeYear": "98.73%",
     "time": 501,
     "timeDay": 501,
     "timeWeek": 501,
     "timeMonth": 501,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2022-02-04": 0
+      "2022-02-04": 3
     }
   },
   {
@@ -42,17 +42,17 @@
     "url": "https://ipfs.io/ipns/k51qzi5uqu5dicjkm8zerzc187wessd8ibgwqscv3qx80shm53k9qivmfjmznr",
     "icon": "https://favicons.githubusercontent.com/ipfs.io",
     "slug": "ipfs-pruebas-noticias",
-    "status": "up",
-    "uptime": "65.53%",
-    "uptimeDay": "65.53%",
-    "uptimeWeek": "65.53%",
-    "uptimeMonth": "65.53%",
-    "uptimeYear": "65.53%",
-    "time": 7343,
-    "timeDay": 7343,
-    "timeWeek": 7343,
-    "timeMonth": 7343,
-    "timeYear": 7343,
+    "status": "down",
+    "uptime": "65.89%",
+    "uptimeDay": "65.89%",
+    "uptimeWeek": "65.89%",
+    "uptimeMonth": "65.89%",
+    "uptimeYear": "65.89%",
+    "time": 6579,
+    "timeDay": 6579,
+    "timeWeek": 6579,
+    "timeMonth": 6579,
+    "timeYear": 6579,
     "dailyMinutesDown": {
       "2022-02-04": 67
     }
@@ -62,17 +62,19 @@
     "url": "http://loibra.mooo.com/",
     "icon": "https://favicons.githubusercontent.com/loibra.mooo.com",
     "slug": "test-loibra",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1548,
-    "timeDay": 1548,
-    "timeWeek": 1548,
-    "timeMonth": 1548,
-    "timeYear": 1548,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1299,
+    "timeDay": 1299,
+    "timeWeek": 1299,
+    "timeMonth": 1299,
+    "timeYear": 1299,
+    "dailyMinutesDown": {
+      "2022-02-04": 0
+    }
   }
 ]
