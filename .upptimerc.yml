@@ -7,10 +7,10 @@ sites:
     url: https://ipfs.io/ipfs/QmXoVW8mxjtN9web1qRS5zR3SHWiT1ERprbQN1r4sPK71F
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: ipfs pruebas noticias
+    url: https://ipfs.io/ipns/k51qzi5uqu5dicjkm8zerzc187wessd8ibgwqscv3qx80shm53k9qivmfjmznr
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: http://loibra.mooo.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
