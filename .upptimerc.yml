@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: ipfs
-    url: https://ipfs.io/ipfs/QmXoVW8mxjtN9web1qRS5zR3SHWiT1ERprbQN1r4sPK71F
+    url: https://ipfs.io/ipfs/QmeXkQfMeRQUp6YfePGEgRu81Rz3GXgbJRc5bZbqecRh73
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: ipfs pruebas noticias
