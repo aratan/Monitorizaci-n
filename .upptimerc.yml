@@ -3,13 +3,13 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: ipfs
-    url: https://ipfs.io/ipfs/QmeXkQfMeRQUp6YfePGEgRu81Rz3GXgbJRc5bZbqecRh73
+  - name: Chat
+    url: https://ipfs.io/ipfs/QmUds9SgdzLSMLvGv3NdUsmkKzYbAUsf6HQkKCDv4gshrP
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: ipfs pruebas noticias
+  - name: ipfs web
     url: https://ipfs.io/ipns/k51qzi5uqu5dicjkm8zerzc187wessd8ibgwqscv3qx80shm53k9qivmfjmznr
-  - name: Test loibra
+  - name: Test loibra.moo.com
     url: http://loibra.mooo.com/
 
 status-website:
