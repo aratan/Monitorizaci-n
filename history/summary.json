@@ -22,19 +22,19 @@
     "url": "http://ipfs.io/ipfs/QmUoh56yiaaDz4xNXRj7u9MyaH7YaZRcciR7Fgt3Rqjihi",
     "icon": "https://favicons.githubusercontent.com/ipfs.io",
     "slug": "video-pruebas",
-    "status": "down",
-    "uptime": "58.88%",
-    "uptimeDay": "58.88%",
-    "uptimeWeek": "58.88%",
-    "uptimeMonth": "58.88%",
-    "uptimeYear": "58.88%",
-    "time": 12946,
-    "timeDay": 12946,
-    "timeWeek": 12946,
-    "timeMonth": 12946,
-    "timeYear": 12946,
+    "status": "up",
+    "uptime": "52.88%",
+    "uptimeDay": "52.88%",
+    "uptimeWeek": "52.88%",
+    "uptimeMonth": "52.88%",
+    "uptimeYear": "52.88%",
+    "time": 17459,
+    "timeDay": 17459,
+    "timeWeek": 17459,
+    "timeMonth": 17459,
+    "timeYear": 17459,
     "dailyMinutesDown": {
-      "2022-02-07": 54
+      "2022-02-07": 72
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://ipfs.io/ipns/k51qzi5uqu5dicjkm8zerzc187wessd8ibgwqscv3qx80shm53k9qivmfjmznr",
     "icon": "https://favicons.githubusercontent.com/ipfs.io",
     "slug": "ipfs-web",
-    "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
+    "status": "down",
+    "uptime": "98.31%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.31%",
     "time": 1728,
     "timeDay": 1728,
     "timeWeek": 1728,
     "timeMonth": 1728,
     "timeYear": 1728,
     "dailyMinutesDown": {
-      "2022-02-07": 22
+      "2022-02-07": 23
     }
   },
   {
