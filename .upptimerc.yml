@@ -6,7 +6,7 @@ sites:
   - name: Chat
     url: https://ipfs.io/ipfs/QmUds9SgdzLSMLvGv3NdUsmkKzYbAUsf6HQkKCDv4gshrP
   - name: video pruebas
-    url: https://ipfs.io/ipfs/QmdC2d2nXPN2TB2xHKqUeLpXUwPGAQkVT7mBQ3yFE5oPPv?filename=TVDisident.html
+    url: https://ipfs.io/ipfs/QmUoh56yiaaDz4xNXRj7u9MyaH7YaZRcciR7Fgt3Rqjihi?filename=TVDisident.html
   - name: ipfs web
     url: https://ipfs.io/ipns/k51qzi5uqu5dicjkm8zerzc187wessd8ibgwqscv3qx80shm53k9qivmfjmznr
   - name: Test loibra.moo.com
