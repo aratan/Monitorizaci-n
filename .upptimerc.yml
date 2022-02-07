@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Chat
     url: https://ipfs.io/ipfs/QmUds9SgdzLSMLvGv3NdUsmkKzYbAUsf6HQkKCDv4gshrP
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: video pruebas
+    url: https://ipfs.io/ipfs/QmaCuP8rvq6pTFMLu2aeFGaKbPiiBrb5TQr6PDnTEgxYXi?filename=TVDisident.html
   - name: ipfs web
     url: https://ipfs.io/ipns/k51qzi5uqu5dicjkm8zerzc187wessd8ibgwqscv3qx80shm53k9qivmfjmznr
   - name: Test loibra.moo.com
