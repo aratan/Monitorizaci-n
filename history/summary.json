@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/ipfs.io",
     "slug": "chat",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1631,
-    "timeDay": 231,
+    "timeDay": 322,
     "timeWeek": 1631,
     "timeMonth": 1631,
     "timeYear": 1631,
-    "dailyMinutesDown": {
-      "2022-02-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "video pruebas",
@@ -25,18 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/ipfs.io",
     "slug": "video-pruebas",
     "status": "up",
-    "uptime": "98.28%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "98.28%",
+    "uptime": "98.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.65%",
     "time": 4813,
-    "timeDay": 41,
+    "timeDay": 58,
     "timeWeek": 4813,
     "timeMonth": 4813,
     "timeYear": 4813,
     "dailyMinutesDown": {
-      "2022-02-11": 13,
       "2022-02-07": 72
     }
   },
@@ -45,19 +42,19 @@
     "url": "https://ipfs.io/ipns/k51qzi5uqu5dicjkm8zerzc187wessd8ibgwqscv3qx80shm53k9qivmfjmznr",
     "icon": "https://favicons.githubusercontent.com/ipfs.io",
     "slug": "ipfs-web",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 1755,
-    "timeDay": 781,
+    "timeDay": 1055,
     "timeWeek": 1755,
     "timeMonth": 1755,
     "timeYear": 1755,
     "dailyMinutesDown": {
-      "2022-02-11": 12,
+      "2022-02-11": 2,
       "2022-02-07": 22
     }
   },
@@ -66,19 +63,19 @@
     "url": "http://loibra.mooo.com/",
     "icon": "https://favicons.githubusercontent.com/loibra.mooo.com",
     "slug": "test-loibra-moo-com",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1516,
-    "timeDay": 2086,
+    "timeDay": 2793,
     "timeWeek": 1516,
     "timeMonth": 1516,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2022-02-11": 12
+      "2022-02-11": 0
     }
   }
 ]
