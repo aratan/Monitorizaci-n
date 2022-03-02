@@ -8,7 +8,7 @@ sites:
   - name: video pruebas
     url: https://ipfs.io/ipfs/QmXbgJEuzsKSKuF8gUCjKd5J3WCRNSP7fXfuMh6C3WMF64
   - name: añade video p2p red
-    url: https://ipfs.io/ipfs/QmXHPH2aFvkYvrUx8uwQPEGXh95c2N3Uc1k91LuVKjALM9?filename=ddbb.html
+    url: https://ipfs.io/ipfs/QmXHPH2aFvkYvrUx8uwQPEGXh95c2N3Uc1k91LuVKjALM9
   - name: ipfs web
     url: https://ipfs.io/ipns/k51qzi5uqu5dicjkm8zerzc187wessd8ibgwqscv3qx80shm53k9qivmfjmznr
   - name: Test loibra.moo.com
