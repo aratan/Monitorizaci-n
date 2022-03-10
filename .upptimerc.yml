@@ -14,7 +14,7 @@ sites:
   - name: Test loibra.moo.com
     url: http://loibra.mooo.com/
   - name: CrowEquity
-    url: https://ipfs.io/ipfs/QmbhB6ZU6XPQDSp5sve4DWFXmB4CiR9THrnVapX8ZUgth3
+    url: https://ipfs.io/ipfs/QmVh9h9bcKGEik11YeQsU8vqVTbp1uKSz5eSiToLXkdRKg
   
 
 status-website:
