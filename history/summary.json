@@ -147,7 +147,7 @@
     "timeMonth": 39,
     "timeYear": 1708,
     "dailyMinutesDown": {
-      "2022-06-25": 691,
+      "2022-06-25": 710,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
@@ -280,12 +280,12 @@
     "url": "http://loibra.mooo.com/",
     "icon": "https://favicons.githubusercontent.com/loibra.mooo.com",
     "slug": "test-loibra-moo-com",
-    "status": "up",
-    "uptime": "52.42%",
-    "uptimeDay": "0.02%",
+    "status": "down",
+    "uptime": "52.44%",
+    "uptimeDay": "1.30%",
     "uptimeWeek": "22.16%",
-    "uptimeMonth": "10.12%",
-    "uptimeYear": "52.42%",
+    "uptimeMonth": "10.16%",
+    "uptimeYear": "52.44%",
     "time": 3326,
     "timeDay": 15091,
     "timeWeek": 9335,
@@ -370,7 +370,7 @@
       "2022-04-08": 416,
       "2022-04-07": 209,
       "2022-04-06": 322,
-      "2022-04-05": 545
+      "2022-04-05": 518
     }
   },
   {
