@@ -11,8 +11,8 @@ sites:
     url: https://ipfs.io/ipfs/QmQN5zrqUDQMmx9u491F7Hc2fd3RUrpzwCKX4RwPoorqAv
   - name: ipfs web
     url: https://ipfs.io/ipns/k51qzi5uqu5dicjkm8zerzc187wessd8ibgwqscv3qx80shm53k9qivmfjmznr
-  - name: Test loibra.moo.com
-    url: http://loibra.mooo.com/
+  - name: Test AratanCoders
+    url: https://aratancoders.blockchain/
   - name: CrowEquity
     url: https://ipfs.io/ipfs/QmUytJLQ82RGm5NJgedbDHcsB8qGYWQgfY4k1fhft1ehVX
   
