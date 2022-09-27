@@ -12,7 +12,7 @@ sites:
   - name: ipfs web
     url: https://ipfs.io/ipns/k51qzi5uqu5dicjkm8zerzc187wessd8ibgwqscv3qx80shm53k9qivmfjmznr
   - name: Test AratanCoders
-    url: https://aratancoders.blockchain/
+    url: https://bafybeiaaxvbr2bvo2fughubtmi7m5xzuuswwakiklpenvfhfxj5brankwi.ipfs.dweb.link/
   - name: CrowEquity
     url: https://ipfs.io/ipfs/QmUytJLQ82RGm5NJgedbDHcsB8qGYWQgfY4k1fhft1ehVX
   
