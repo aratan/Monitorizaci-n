@@ -15,7 +15,8 @@ sites:
     url: https://bafybeiaaxvbr2bvo2fughubtmi7m5xzuuswwakiklpenvfhfxj5brankwi.ipfs.dweb.link
   - name: CrowEquity
     url: https://ipfs.io/ipfs/QmUytJLQ82RGm5NJgedbDHcsB8qGYWQgfY4k1fhft1ehVX
-  
+  - name: aratanCoders 
+    url: https://ipfs.io/ipfs/QmNPY6QK1gCcSx2wD7C6seG31o5TkXm1pgpoUj8BEvJpXs
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
