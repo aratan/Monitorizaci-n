@@ -17,7 +17,9 @@ sites:
     url: https://ipfs.io/ipfs/QmUytJLQ82RGm5NJgedbDHcsB8qGYWQgfY4k1fhft1ehVX
   - name: aratanCoders 
     url: https://ipfs.io/ipfs/QmNPY6QK1gCcSx2wD7C6seG31o5TkXm1pgpoUj8BEvJpXs
-
+  - name: aratancoders 2 pruebas
+    url: https://bafybeiaaxvbr2bvo2fughubtmi7m5xzuuswwakiklpenvfhfxj5brankwi.ipfs.dweb.link/
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
