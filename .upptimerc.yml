@@ -10,7 +10,7 @@ sites:
   - name: añade video p2p red
     url: https://ipfs.io/ipfs/QmQN5zrqUDQMmx9u491F7Hc2fd3RUrpzwCKX4RwPoorqAv
   - name: ipfs web
-    url: https://ipfs.io/ipns/k51qzi5uqu5dicjkm8zerzc187wessd8ibgwqscv3qx80shm53k9qivmfjmznr
+    url: https://bafybeiaaxvbr2bvo2fughubtmi7m5xzuuswwakiklpenvfhfxj5brankwi.ipfs.dweb.link
   - name: Test AratanCoders
     url: https://bafybeiaaxvbr2bvo2fughubtmi7m5xzuuswwakiklpenvfhfxj5brankwi.ipfs.dweb.link
   - name: CrowEquity
